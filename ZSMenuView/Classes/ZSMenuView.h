@@ -19,5 +19,5 @@
 @property (nonatomic ,strong)UIColor *separationLineColor;
 
 
-- (instancetype)initWithFrame:(CGRect)frame withTitleArray:(NSArray *)titleArray withImageArray:(NSArray *)imageArray andButtonNumOfLine:(NSUInteger)numberOfLine NS_DESIGNATED_INITIALIZER;
+- (instancetype)initWithFrame:(CGRect)frame withTitleArray:(NSArray *)titleArray withImageArray:(NSArray *)imageArray andButtonNumOfLine:(NSUInteger)numberOfLine;
 @end
